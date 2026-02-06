@@ -502,7 +502,6 @@ body {
     transform: translateY(0);
   }
 }
-=======
 /* ================= ROOT VARIABLES ================= */
 :root {
   --bg-dark: #0f172a;
@@ -702,4 +701,3 @@ body {
   color: var(--primary);
   text-decoration: none;
 }
->>>>>>> 0e03e4ff3f33439ccf17302544205b7605a74326
